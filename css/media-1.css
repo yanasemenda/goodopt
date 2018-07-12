@@ -1,0 +1,284 @@
+@media (max-width: 1200px) {
+	.basic {
+		width: 960px;
+		margin: 0 auto;
+		background-color: red;
+	}
+	.search input {
+	width: 553px;
+}
+.enter,
+.phone {
+	text-align: center;
+}
+main {
+	width: 700px;
+}
+.menu ul li a {
+	font-size: 15px;
+}
+	.wholesale,
+	.main-sections {
+		width: 700px;
+		transform: scale(0.8);
+	}
+	.sections-boys,
+.sections-girls {
+	width: 325px;
+	}
+	footer .logo {
+		width: 200px;
+		margin-left: 0;
+	}
+	nav {
+		margin-left:25px;
+		display: inline-block;
+		float: left; 
+	}
+header .logo {
+	margin-left: 0px;
+}
+.basket {
+	margin-left: -180px;
+
+}
+.dress {
+	width: 250px;
+	transform: scale(0.7);
+	margin-right: 20px;
+	}
+
+
+}
+@media (max-width: 992px) {
+	.basic {
+		width: 760px;
+		margin: 0 auto;
+		background-color: blue;
+	}
+	.search input {
+	width: 253px;	
+	margin-left: -40px;
+}
+.enter,
+.phone {
+	text-align: left;
+	margin-left: -40px;
+}
+.basket {
+	margin-left: -550px;
+
+}
+
+main {
+	width: 500px;
+	margin-left: -50px;
+}
+ .goodopt {
+ 	width: 150px;
+ 	height: 40px;
+ 	display: inline-block;
+ 	float: left;
+ 	margin-left: 45px;
+ }
+ .goodopt a{
+	line-height: 2;
+ 	font-size: 15px;
+ }
+ .menu .menu-menu {
+  	width: 650px;
+  	height: 40px;
+  	margin-left: -30px;
+  }
+nav ul li a {
+	font-size: 13px;
+	margin-left: 10px;
+}
+nav span {
+	font-size: 10px;
+}
+.menu ul li a {
+	font-size: 12px;
+}
+.menu ul li {
+	padding-right: 10px;
+}
+	.wholesale,
+	.main-sections {
+		width: 600px;
+		transform: scale(0.7);
+		margin-top: -40px;
+	}
+	.sections-boys,
+.sections-girls {
+	width: 280px;
+	}
+	.news {
+	 width: 670px;
+	height: 200px;
+	text-align: center;
+	margin-left: 395px;
+	margin-top: 
+}
+.news h1,
+.news h2 {
+	font-size: 20px;
+}
+.contacts {
+	margin-left: 50px;
+}
+.contacts a {
+	letter-spacing: 1;
+	font-size: 15px;
+}
+
+	.yellow-block a {
+		font-size: 30px;
+	}
+	footer .logo {
+		width: 200px;
+		margin-left: 0;
+	}
+	nav {
+		margin-left:25px;
+		display: inline-block;
+		float: left; 
+	}
+
+}
+@media (max-width: 768px) {
+	.basic {
+		width: 568px;
+		margin: 0 auto;
+		background-color: green;
+	}
+	
+header .logo {
+	margin-left: -30px;
+}
+.enter,
+.phone {
+	text-align: left;
+}
+
+.menu {
+  height: 60px;
+  background-color: #0089ac;
+}
+.goodopt {
+	display: block;
+	float: none;
+}
+.goodopt a {
+	font-size: 15px;
+}
+
+.menu ul li a {
+	font-size: 15px;
+}
+   .menu ul li {  	
+	margin-top: 10px;
+}
+.menu ul {
+	margin-top: -10px;
+}
+main{
+	width: 300px;
+}
+	.wholesale,
+	.main-sections {
+		width: 500px;
+		transform: scale(0.6);
+	margin-left: -60px;
+	}
+	.sections-boys,
+.sections-girls {
+	width: 425px;
+	height: 300px;
+	margin-left: 40px;
+	}
+		nav {
+		margin-left: 2px;
+		display: inline-block;
+		float: left; 
+	}
+	.text-wholesale {
+		font-size: 20px;
+	}
+	footer .logo{
+		display: none;
+	}
+	.asks {
+		width: 400px;
+		margin-left: 350px;
+	}
+	.asks p {
+		font-size: 15px;
+	}
+	.fill-form {
+  margin-left: 100px;
+	}	
+}
+@media (max-width: 560px){
+	.basic {
+		margin: 0 auto;
+		width: 100%;
+		background-color: red;				
+	}
+	.introduce {
+		width: 300px;
+	}
+	nav,
+	.phone,
+	.search,
+	.basket,
+	.news {
+		display: none;
+	}
+	.menu {
+		width: 400px;
+  background-color: white;
+}
+.menu-menu ul {
+	margin-top: 35px;
+	margin-left: 35px;
+}
+.menu-menu ul li {
+	display: block;
+	float: none;
+	margin-top: 10px;
+}
+.wholesale,
+	.main-sections {
+		margin-top: 30px;
+margin-bottom: -110px;
+}
+
+.enter {
+	margin-top: 60px;
+	font-size: 13px;
+}
+.asks {
+		width: 250px;
+		margin-left: 490px;
+	}
+	.asks p {
+		font-size: 10px;
+	}
+	.fill-form {
+		width: 140px;
+  margin-left: 64px;
+  line-height: 3.5;
+}
+.asks span,
+.contacts a {
+	font-size: 10px;
+}
+.contacts {
+	margin-left: -10px;
+	}
+}
+
+
+
+

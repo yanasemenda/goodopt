@@ -1,0 +1,58 @@
+.dresses {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	align-items: flex-start;
+
+}
+.dress {
+	width: 270px;
+	height: 362px;
+}
+.info-dress {
+	width: 270px;
+	height: 120px;
+	margin: 0;
+	font-size: 0;
+	background-color: #f3f3f3;
+}
+.info-dress p {	
+  font-size: 16.5px;
+  font-weight: bold;
+  line-height: 1.67;
+  letter-spacing: 0.1px;
+  text-align: center;
+  color: #131313;
+}
+.info-dress span {
+	 font-size: 16.5px;
+text-align: left;
+}
+.info-dress span span {
+	padding-left: 50px;
+}
+.line {
+	width: 260px;
+  height: 3px;
+  background-color: #000000;
+	margin-top: -10px;
+}
+.info-dress input {
+	 width: 132px;
+  height: 23px;
+  font-size: 13.5px;
+  font-weight: 500;  
+  line-height: 1.37;
+  letter-spacing: 0.7px;
+  text-align: center;
+  color: white;  
+  margin-top: 10px;
+   background-color: #000000;
+  border: solid 2px white;
+}
+#buy {
+	color: black; 
+   background-color: white;
+	 border: solid 2px black;
+	 font-weight: bold; 
+}
